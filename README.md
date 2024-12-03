@@ -58,7 +58,7 @@ Mtiny là viết tắt của Maker Tiny là dự án tạo ra các mạch vi đi
   </tr>
   <tr>
     <td>Programmer</td>
-    <td><a href="https://wiki.makerlab.vn/index.php/M%E1%BA%A1ch_Mtiny_Programmer_(Arduino_Compatible)">Mạch Mtiny Programmer (Arduino Compatible)</a></td>
+    <td><a href="https://makerlab.vn/mtprogrammer">Mạch Mtiny Programmer (Arduino Compatible)</a></td>
   </tr>
   <tr>
     <td>Programmer Connector</td>
@@ -119,7 +119,8 @@ Mạch Mtiny ESP32 WROVER-IE sử dụng mạch nạp Mtiny Programer với chu�
 3) Cấu hình mạch trên phần mềm Arduino: Để cấu hình mạch trên phần mềm Arduino chúng ta cần làm các bước sau:
 
 Copy đường link sau và dán vào mục File > Preferences > Additional boards manager URLs (trên Windows) hoặc Arduino IDE > Settings > Additional boards manager URLs (trên MacOS) sau đó nhấn OK:
-        <https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json>
+        
+    <https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json>
 
 ![](/image/32ie_06.png)
 
