@@ -96,17 +96,9 @@ Mạch Mtiny ESP32 WROVER-IE sử dụng mạch nạp Mtiny Programer với chu�
 
 #### Hướng dẫn sử dụng phần mềm Arduino cơ bản
 
-1) Giới thiệu về Arduino
+[Hướng dẫn cài đặt phần mềm, nạp chương trình, cài đặt bộ thư viện Arduino cơ bản.](https://github.com/makerlabvn/Arduino-Vietduino)
 
-2) Ngôn ngữ lập trình Arduino
-
-3) Cách cài đặt phần mềm Arduino IDE
-
-4) Cách cài đặt Driver và nạp chương trình cho mạch Arduino / Arduino Compatible
-
-5) Cách cài đặt các thư viện phần cứng Arduino Library
-
-6) Cách sử dụng Serial Monitor & Serial Plotter trên phần mềm Arduino
+- Tải và cài đặt [phần mềm Arduino tại đây.](https://www.arduino.cc/en/software)
 
 #### Hướng dẫn kết nối và nạp chương trình cho Mạch Mtiny ESP32 WROVER-IE trên phần mềm Arduino
 
